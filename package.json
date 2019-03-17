@@ -1,0 +1,23 @@
+{
+  "name": "device-registry",
+  "version": "1.0.0",
+  "description": "re-writing https://github.com/CDuncan95/tutorials/tree/master/home-automation/02-device-registry in node with express as a learning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDuncan95/device-registry-node.git"
+  },
+  "author": "Chris Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDuncan95/device-registry-node/issues"
+  },
+  "homepage": "https://github.com/CDuncan95/device-registry-node#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-persist": "^3.0.4"
+  }
+}
